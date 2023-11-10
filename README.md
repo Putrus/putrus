@@ -4,7 +4,8 @@ Most of them are written in C++, It is my favorite programming language.
 Of course there are also projects written in Python, Java and in other languages.
 
 ## :information_source: About me 
-My name is Marcin Putra. I live in Poznań but I came from Suwałki - very cold city in north-west Poland.
+My name is Marcin Putra. I live in Poznań but I come from Suwałki - very cold city in north-west Poland.
+I'm a software engineer, student and teacher.
 I am a positive, chatty and extroverted person who is very ambitious. I love working in a team and compete with others.
 I've tried a lot of things in my life and I have many passions:
 - :video_game: Computer games
@@ -21,12 +22,12 @@ I've tried a lot of things in my life and I have many passions:
 - :volleyball: Beach volleyball
 
   The second sports passion appeared in high school, my best friend invited me to play during the holidays and I really liked it. 
-  I'm very tall so I made a lot of progress in the beginning. I love going to tournaments and competing with others.
+  I'm very tall so I made a lot of progress at the beginning. I love going to tournaments and competing with others.
 
 - :keyboard: Programming
 
-  The last biggest passion is programming. I wrote first "Hello World" in C++ in 2015.
-  It turned out that writing code is very satisfied and understanding code came very easily to me.
+  The last but not least passion is programming. I wrote first "Hello World" in C++ in 2015.
+  It turned out that writing code is very satisfied and understanding it came very easily to me.
   I started writing more and more and then I decided to study computer science.
 <!--
 **Putrus/putrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
