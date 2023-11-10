@@ -1,6 +1,8 @@
-### About me :information_source:
-My name is Marcin Putra, I'm a Software Engineer, I've been programming in C++ since 2015.
-Except for programming my passions are football and beach volleyball.
+## :wave: Welcome to my github!
+### :information_source: About me 
+
+My name is Marcin Putra. I live in Poznań but I came from Suwałki - very cold city in north-west Poland.
+
 
 <!--
 **Putrus/putrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
