@@ -8,9 +8,9 @@ My name is Marcin Putra. I live in Poznań but I came from Suwałki - very cold 
 I am a person who loves competition and has many passions:
 - :video_game: Computer games
   
-  I received my first computer for Christmas in 2004, along with the computer I received the Techland game "Pet Racer".
-  I immediately fell in love with computer games, I spent entire days in the map editors of various games. 
-  To this day, I love playing, creating levels/entire games.
+  I received my first computer for Christmas in 2004, in the same time I got the Techland game "Pet Racer".
+  I immediately fell in love with computer games, I spent whole days in the map editors of various games. 
+  To this day, I love playing and creating games.
 
 - :soccer: Football/Futsal
 
