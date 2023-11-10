@@ -12,7 +12,7 @@ I've tried a lot of things in my life and I have many passions:
 <summary>:video_game: Computer games</summary>
 I received my first computer for Christmas in 2004, in the same time I got the Techland game "Pet Racer".
 I immediately fell in love with games and I spent whole days in the map editors of various games.
-I love playing and creating games, so from time to time I take part in Game Jam competitions.
+To this day, I love playing and creating games, so from time to time I take part in Game Jam competitions.
 </details>
 
 <details>
