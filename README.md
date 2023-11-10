@@ -5,7 +5,8 @@ Of course there are also projects written in Python, Java and in other languages
 
 ## :information_source: About me 
 My name is Marcin Putra. I live in Poznań but I came from Suwałki - very cold city in north-west Poland.
-I am a person who loves competition and has many passions:
+I am a positive, chatty and extroverted person who is very ambitious. I love working in a team and compete with others.
+I've tried a lot of things in my life and I have many passions:
 - :video_game: Computer games
   
   I received my first computer for Christmas in 2004, in the same time I got the Techland game "Pet Racer".
