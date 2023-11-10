@@ -9,7 +9,7 @@ I am a person who loves competition and has many passions:
 - :video_game: Computer games
   
   I received my first computer for Christmas in 2004, in the same time I got the Techland game "Pet Racer".
-  I immediately fell in love with computer games, I spent whole days in the map editors of various games. 
+  I immediately fell in love with games and I spent whole days in the map editors of various games. 
   To this day, I love playing and creating games.
 
 - :soccer: Football/Futsal
@@ -25,7 +25,8 @@ I am a person who loves competition and has many passions:
 - :keyboard: Programming
 
   The last biggest passion is programming. I wrote first "Hello World" in C++ in 2015.
-  It turned out that understanding code came very easily to me. I started writing more and more code and then I decided to study computer science.
+  It turned out that writing code is very satisfied and understanding code came very easily to me.
+  I started writing more and more and then I decided to study computer science.
 <!--
 **Putrus/putrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
