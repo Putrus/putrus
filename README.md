@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me :information_source:
+My name is Marcin Putra, I'm a Software Engineer, I've been programming in C++ since 2015.
+Except for programming my passions are football and beach volleyball.
 
 <!--
 **Putrus/putrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
