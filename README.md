@@ -1,7 +1,7 @@
 ## :wave: Welcome to my github!
 You can find my side projects here. Some projects are done for my studies and the rest I do in my free time.
 Most of them are written in C++, It is my favorite programming language.
-Of course there are also projects written in Python, Java and in other languages.
+Of course there are also projects written in Python, Java and other languages.
 
 ## :information_source: About me 
 My name is Marcin Putra. I live in Poznań but I come from Suwałki - very cold city in north-west Poland.
