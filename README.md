@@ -14,10 +14,7 @@ I received my first computer for Christmas in 2004, in the same time I got the T
 I immediately fell in love with games and I spent whole days in the map editors of various games.
 To this day, I love playing and creating games, so from time to time I take part in game jam contests.
 
-![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/behaviour_improvement.jpg)
 ![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/light.jpg)
-![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/marchewka_ruebli.jpg)
-![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/radioactive_saboteur.jpg)
 </details>
 
 <details>
@@ -26,7 +23,6 @@ My dad gave me this passion and I've been training football as a goalkeeper sinc
 During my studies, I gave up playing in the club but I still play football with friends.
 
 ![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/football.jpg)
-![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/futsal.jpg)
 </details>
 
 <details>
@@ -45,18 +41,3 @@ I started writing more and more and then I decided to study computer science.
 
 ![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/programming.jpg)
 </details>
-
-<!--
-**Putrus/putrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
