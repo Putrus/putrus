@@ -14,7 +14,10 @@ I received my first computer for Christmas in 2004, in the same time I got the T
 I immediately fell in love with games and I spent whole days in the map editors of various games.
 To this day, I love playing and creating games, so from time to time I take part in game jam contests.
 
-![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/games.jpg)
+![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/behaviour_improvement.jpg)
+![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/light.jpg)
+![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/marchewka_ruebli.jpg)
+![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/radioactive_saboteur.jpg)
 </details>
 
 <details>
