@@ -24,12 +24,17 @@ To this day, I love playing and creating games, so from time to time I take part
 <summary>:soccer: Football/Futsal</summary>
 My dad gave me this passion and I've been training football as a goalkeeper since I remember.
 During my studies, I gave up playing in the club but I still play football with friends.
+
+![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/football.jpg)
+![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/futsal.jpg)
 </details>
 
 <details>
 <summary>:volleyball: Beach volleyball</summary>
 The second sports passion appeared in high school, my best friend invited me to play during the holidays and I really liked it. 
 I'm very tall so I made a lot of progress at the beginning. I love going to tournaments and competing with others.
+
+![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/volleyball.jpg)
 </details>
 
 <details>
@@ -37,6 +42,8 @@ I'm very tall so I made a lot of progress at the beginning. I love going to tour
 The last but not least passion is programming. I wrote first "Hello World" in C++ in 2015.
 It turned out that writing code is very satisfied and understanding it came very easily to me.
 I started writing more and more and then I decided to study computer science.
+
+![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/programming.jpg)
 </details>
 
 <!--
