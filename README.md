@@ -14,7 +14,7 @@ I received my first computer for Christmas in 2004, in the same time I got the T
 I immediately fell in love with games and I spent whole days in the map editors of various games.
 To this day, I love playing and creating games, so from time to time I take part in game jam contests.
 
-![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/light.jpg)
+![Games](https://github.com/Putrus/putrus/blob/main/images/light.jpg)
 </details>
 
 <details>
@@ -22,7 +22,7 @@ To this day, I love playing and creating games, so from time to time I take part
 My dad gave me this passion and I've been training football as a goalkeeper since I remember.
 During my studies, I gave up playing in the club but I still play football with friends.
 
-![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/football.jpg)
+![Football](https://github.com/Putrus/putrus/blob/main/images/football.jpg)
 </details>
 
 <details>
@@ -30,7 +30,7 @@ During my studies, I gave up playing in the club but I still play football with 
 The second sports passion appeared in high school, my best friend invited me to play during the holidays and I really liked it. 
 I'm very tall so I made a lot of progress at the beginning. I love going to tournaments and competing with others.
 
-![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/volleyball.jpg)
+![Volleyball](https://github.com/Putrus/putrus/blob/main/images/volleyball.jpg)
 </details>
 
 <details>
@@ -39,5 +39,5 @@ The last but not least passion is programming. I wrote first "Hello World" in C+
 It turned out that writing code is very satisfied and understanding it came very easily to me.
 I started writing more and more and then I decided to study computer science.
 
-![Game Jams Games](https://github.com/Putrus/putrus/blob/main/images/programming.jpg)
+![Programming](https://github.com/Putrus/putrus/blob/main/images/programming.jpg)
 </details>
