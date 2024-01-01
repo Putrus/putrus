@@ -33,8 +33,6 @@ I'm very tall so I made a lot of progress at the beginning. I love going to tour
 ![Volleyball](https://github.com/Putrus/putrus/blob/main/images/volleyball.jpg)
 </details>
 
-## :information_source: Contact
-
 <details>
 <summary>:keyboard: Programming</summary>
 The last but not least passion is programming. I wrote first "Hello World" in C++ in 2015.
@@ -43,3 +41,6 @@ I started writing more and more and then I decided to study computer science.
 
 ![Programming](https://github.com/Putrus/putrus/blob/main/images/programming.jpg)
 </details>
+
+## :mailbox: Contact
+marcin@putra.pro
