@@ -9,7 +9,7 @@ I'm a software engineer, student and teacher.
 I am a positive, chatty and extroverted person who is very ambitious. I love working in a team and compete with others.
 I've tried a lot of things in my life and I have many passions:
 <details>
-<summary>:video_game: Computer games</summary>
+<summary>:video_game: Computer Games</summary>
 I received my first computer for Christmas in 2004, in the same time I got the Techland game "Pet Racer".
 I immediately fell in love with games and I spent whole days in the map editors of various games.
 To this day, I love playing and creating games, so from time to time I take part in game jam contests.
@@ -26,7 +26,7 @@ During my studies, I gave up playing in the club but I still play football with 
 </details>
 
 <details>
-<summary>:volleyball: Beach volleyball</summary>
+<summary>:volleyball: Beach Volleyball</summary>
 The second sports passion appeared in high school, my best friend invited me to play during the holidays and I really liked it. 
 I'm very tall so I made a lot of progress at the beginning. I love going to tournaments and competing with others.
 
@@ -36,7 +36,7 @@ I'm very tall so I made a lot of progress at the beginning. I love going to tour
 <details>
 <summary>:keyboard: Programming</summary>
 The last but not least passion is programming. I wrote first "Hello World" in C++ in 2015.
-It turned out that writing code is very satisfied and understanding it came very easily to me.
+It turned out that writing code is very satisfied. Understanding programming came very easily to me.
 I started writing more and more and then I decided to study computer science.
 
 ![Programming](https://github.com/Putrus/putrus/blob/main/images/programming.jpg)
