@@ -5,7 +5,7 @@ Of course there are also projects written in Python, Java and other languages.
 
 ## :information_source: About me 
 My name is Marcin Putra. I live in Poznań but I come from Suwałki - very cold city in north-west Poland.
-I'm a software engineer and teaching assistand at Poznań University of Technology.
+I'm a software engineer and teaching assistant at Poznań University of Technology.
 I am a positive, chatty and extroverted person who is very ambitious. I love working in a team and compete with others.
 I've tried a lot of things in my life and I have many passions:
 <details>
