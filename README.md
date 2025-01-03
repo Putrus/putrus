@@ -1,4 +1,4 @@
-## :wave: Welcome to my github!
+## :wave: Welcome to my GitHub!
 You can find my side projects here. Some projects are done for my studies and the rest I do in my free time.
 Most of them are written in C++, It is my favorite programming language.
 Of course there are also projects written in Python, Java and other languages.
