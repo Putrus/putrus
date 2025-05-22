@@ -20,14 +20,14 @@ To this day, I love playing and creating games, so from time to time I take part
 <details>
 <summary>:soccer: Football/Futsal</summary>
 My dad gave me this passion and I've been training football as a goalkeeper since I remember.
-During my studies, I gave up playing in the club but I still play football with friends.
+I stopped playing for a club while I was studying, but after graduating, I got back into it after a four-year break.
 
 ![Football](https://github.com/Putrus/putrus/blob/main/images/football.jpg)
 </details>
 
 <details>
 <summary>:volleyball: Beach Volleyball</summary>
-The second sports passion appeared in high school, my best friend invited me to play during the holidays and I really liked it. 
+The second sport passion appeared in high school, my best friend invited me to play during the holidays and I really liked it. 
 I'm very tall so I made a lot of progress at the beginning. I love going to tournaments and competing with others.
 
 ![Volleyball](https://github.com/Putrus/putrus/blob/main/images/volleyball.jpg)
